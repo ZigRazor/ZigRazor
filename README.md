@@ -10,6 +10,7 @@ I'm interested in CyberSecurity, Machine Learning, Advanced Algoithms.
 - 🌱 I’m currently doing some research Graph Partitioning for ML Application.
 - 👯 I’m looking to collaborate on Open Source Project ( mainly C++ or Python )
 - 🤔 I’m looking for help with my project [LEF](https://github.com/ZigRazor/LEF)
+- 🤔 I’m looking for help with my project [PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
 - 💬 Ask me about C++ Tips and Tricks
 - 📫 How to reach me: zigrazor@gmail.com
 
