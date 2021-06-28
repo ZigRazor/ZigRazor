@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ZigRazor?tab=repositories](https://github.com/ZigRazor?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/ZigRazor?tab=repositories)
 
 - 💬 Ask me about **C++ Tips and Tricks**
 
