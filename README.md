@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zig Razor</h1>
-<h3 align="center">I'm a Software Engineer. I love programming, and low level problems. I'm interested in CyberSecurity, Machine Learning, Advanced Algoithms.</h3>
+<h3 align="center">I'm a Software Engineer. I love programming, and low level problems. I'm interested in CyberSecurity, Machine Learning, Advanced Algorithms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zigrazor&label=Profile%20views&color=0e75b6&style=flat" alt="zigrazor" /> </p>
 
