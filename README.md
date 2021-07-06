@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zig Razor</h1>
 <h3 align="center">I'm a Software Engineer. I love programming, and low level problems. I'm interested in CyberSecurity, Machine Learning, Advanced Algorithms.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zigrazor&label=Profile%20views&color=0e75b6&style=flat" alt="zigrazor" /> </p>
+![](https://komarev.com/ghpvc/?username=zigrazor&label=PROFILE+VIEWS)
+
+![](https://gitwar.herokuapp.com/badge?username=your-github-username&color=green)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zigrazor" alt="zigrazor" /></a> </p>
 
