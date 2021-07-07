@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=zigrazor&label=PROFILE+VIEWS)
 
-![](https://gitwar.herokuapp.com/badge?username=your-github-username&color=green)
+![](https://gitwar.herokuapp.com/badge?username=ZigRazor&color=green)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zigrazor" alt="zigrazor" /></a> </p>
 
