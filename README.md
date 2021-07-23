@@ -3,6 +3,11 @@
 
 ![](https://komarev.com/ghpvc/?username=zigrazor&label=PROFILE+VIEWS)
 
+![](https://www.codewars.com/users/ZigRazor/badges/large)
+
+<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+
 ![](https://gitwar.herokuapp.com/badge?username=ZigRazor&color=green)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zigrazor" alt="zigrazor" /></a> </p>
