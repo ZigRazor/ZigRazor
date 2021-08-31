@@ -27,6 +27,7 @@
 - 📫 How to reach me **zigrazor@gmail.com**
 
 <h3 align="left">Blog Post</h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [Git Remove Local and Remote Tag : The Final Guide](https://dev.to/zigrazor/git-remove-local-and-remote-tag-the-final-guide-534n)
 - [Git Merge: The Final Guide](https://dev.to/zigrazor/git-merge-the-final-guide-ldn)
@@ -34,6 +35,7 @@
 - [The Final Guide Index](https://dev.to/zigrazor/the-final-guide-index-4954)
 - [Git Undo Merge: The Final Guide](https://dev.to/zigrazor/git-undo-merge-the-final-guide-4bj9)
 <!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
