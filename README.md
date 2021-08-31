@@ -37,6 +37,11 @@
 - [Git Undo Merge: The Final Guide](https://dev.to/zigrazor/git-undo-merge-the-final-guide-4bj9)
 <!-- BLOG-POST-LIST:END -->
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
