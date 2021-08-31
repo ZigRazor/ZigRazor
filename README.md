@@ -3,10 +3,11 @@
 
 ![](https://komarev.com/ghpvc/?username=zigrazor&label=PROFILE+VIEWS)
 
+[![ZigRazor StackOverflow](https://stackoverflow-badge.vercel.app/?userID=12491175)](https://stackoverflow.com/users/12491175/zig-razor)
+
 ![](https://www.codewars.com/users/ZigRazor/badges/large)
 
 <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 
 ![](https://gitwar.herokuapp.com/badge?username=ZigRazor&color=green)
 
