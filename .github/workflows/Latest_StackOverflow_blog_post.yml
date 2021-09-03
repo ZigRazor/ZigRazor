@@ -14,7 +14,7 @@ jobs:
           feed_list: "https://stackoverflow.com/feeds/user/12491175"
           gh_token: ${{ secrets.PERSONAL_TOKEN }}
           comment_tag_name: "STACKOVERFLOW-LIST"
-          template: "$date - [$title]($url)"
+          template: "$newline - $date - [$title]($url)"
           commit_message: "Updated with the latest stackoverflow blog posts - ${{ steps.date.outputs.date }}"
           committer_username: "ZigRazor"
           committer_email: "zigrazor@gmail.com"
