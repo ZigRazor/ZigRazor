@@ -18,4 +18,5 @@ jobs:
           commit_message: "Updated with the latest blog posts - ${{ steps.date.outputs.date }}"
           committer_username: "ZigRazor"
           committer_email: "zigrazor@gmail.com"
+          max_post_count: "10"
           
