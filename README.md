@@ -27,15 +27,21 @@
 
 - 📫 How to reach me **zigrazor@gmail.com**
 
-<h3 align="left">Blog Post</h3>
+<h3 align="left">DEV.to Blog Post</h3>
 
-<!-- BLOG-POST-LIST:START -->
+<!-- DEV-TO-LIST:START -->
 - [Pointer vs Reference in C++: The Final Guide](https://dev.to/zigrazor/pointer-vs-reference-in-c-the-final-guide-3475)
 - [Git Remove Local and Remote Tag : The Final Guide](https://dev.to/zigrazor/git-remove-local-and-remote-tag-the-final-guide-534n)
 - [Git Merge: The Final Guide](https://dev.to/zigrazor/git-merge-the-final-guide-ldn)
 - [Git Basics: The Final Guide](https://dev.to/zigrazor/git-basics-the-final-guide-1ne4)
 - [The Final Guide Index](https://dev.to/zigrazor/the-final-guide-index-4954)
-<!-- BLOG-POST-LIST:END -->
+<!-- DEV-TO-LIST:END -->
+
+<h3 align="left">StackOverflow Post</h3>
+
+<!-- STACKOVERFLOW-LIST:START -->
+
+<!-- STACKOVERFLOW-LIST:END -->
 
 ### :zap: Recent Activity
 
