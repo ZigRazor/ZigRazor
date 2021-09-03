@@ -8,13 +8,16 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/zigrazor"
           gh_token: ${{ secrets.PERSONAL_TOKEN }}
           comment_tag_name: "DEV-TO-LIST"
-          template: "$date - [$title]($url)"
+          template: "$newline - $date - [$title]($url)"
           commit_message: "Updated with the latest blog posts - ${{ steps.date.outputs.date }}"
           committer_username: "ZigRazor"
           committer_email: "zigrazor@gmail.com"
