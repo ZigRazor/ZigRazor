@@ -1,10 +1,10 @@
-name: Latest blog post workflow
+name: Latest Dev.to blog post workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
-  update-readme-with-blog:
+  update-readme-with-dev-to-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
@@ -13,3 +13,9 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/zigrazor"
           gh_token: ${{ secrets.PERSONAL_TOKEN }}
+          comment_tag_name: "DEV-TO-LIST"
+          template: "$date - [$title]($url)"
+          commit_message: "Updated with the latest blog posts - ${{ steps.date.outputs.date }}"
+          committer_username: "ZigRazor"
+          committer_email: "zigrazor@gmail.com"
+          
