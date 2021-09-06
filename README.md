@@ -30,6 +30,7 @@
 <h3 align="left">DEV.to Blog Post</h3>
 
 <!-- DEV-TO-LIST:START -->
+ - Mon Sep 06 2021 7:00 AM - [JavaScript Library and Resources](https://dev.to/zigrazor/javascript-library-and-resources-202k)
  - Fri Sep 03 2021 9:48 AM - [Looking for Contributors/Collaborators for Open-Source Projects](https://dev.to/zigrazor/looking-for-contributors-collaborators-for-open-source-projects-2dk7)
  - Wed Sep 01 2021 6:42 AM - [Pointer vs Reference in C++: The Final Guide](https://dev.to/zigrazor/pointer-vs-reference-in-c-the-final-guide-3475)
  - Mon Aug 30 2021 10:27 AM - [Git Remove Local and Remote Tag : The Final Guide](https://dev.to/zigrazor/git-remove-local-and-remote-tag-the-final-guide-534n)
