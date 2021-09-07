@@ -30,6 +30,7 @@
 <h3 align="left">DEV.to Blog Post</h3>
 
 <!-- DEV-TO-LIST:START -->
+ - Tue Sep 07 2021 6:35 AM - [Node.js Packages and Resources](https://dev.to/zigrazor/node-js-packages-and-resources-5en4)
  - Mon Sep 06 2021 7:00 AM - [JavaScript Library and Resources](https://dev.to/zigrazor/javascript-library-and-resources-202k)
  - Fri Sep 03 2021 9:48 AM - [Looking for Contributors/Collaborators for Open-Source Projects](https://dev.to/zigrazor/looking-for-contributors-collaborators-for-open-source-projects-2dk7)
  - Wed Sep 01 2021 6:42 AM - [Pointer vs Reference in C++: The Final Guide](https://dev.to/zigrazor/pointer-vs-reference-in-c-the-final-guide-3475)
@@ -38,8 +39,7 @@
  - Fri Aug 27 2021 7:43 AM - [Git Basics: The Final Guide](https://dev.to/zigrazor/git-basics-the-final-guide-1ne4)
  - Fri Aug 27 2021 7:30 AM - [The Final Guide Index](https://dev.to/zigrazor/the-final-guide-index-4954)
  - Wed Aug 25 2021 8:48 AM - [Git Undo Merge: The Final Guide](https://dev.to/zigrazor/git-undo-merge-the-final-guide-4bj9)
- - Wed Aug 25 2021 8:20 AM - [CXXGraph Library Release v0.1.5](https://dev.to/zigrazor/cxxgraph-library-release-v0-1-5-118c)
- - Tue Jul 20 2021 9:26 AM - [CXXGraph Library](https://dev.to/zigrazor/cxxgraph-library-5fgp)<!-- DEV-TO-LIST:END -->
+ - Wed Aug 25 2021 8:20 AM - [CXXGraph Library Release v0.1.5](https://dev.to/zigrazor/cxxgraph-library-release-v0-1-5-118c)<!-- DEV-TO-LIST:END -->
 
 <h3 align="left">StackOverflow Post</h3>
 
