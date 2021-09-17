@@ -57,11 +57,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#53](https://github.com/ZigRazor/CXXGraph/issues/53) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-2. 🎉 Merged PR [#52](https://github.com/ZigRazor/CXXGraph/pull/52) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-3. 💪 Opened PR [#52](https://github.com/ZigRazor/CXXGraph/pull/52) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-4. ❌ Closed PR [#223](https://github.com/nothings/single_file_libs/pull/223) in [nothings/single_file_libs](https://github.com/nothings/single_file_libs)
-5. 🗣 Commented on [#223](https://github.com/nothings/single_file_libs/issues/223) in [nothings/single_file_libs](https://github.com/nothings/single_file_libs)
+1. 🎉 Merged PR [#5](https://github.com/ZigRazor/CXXAutomata/pull/5) in [ZigRazor/CXXAutomata](https://github.com/ZigRazor/CXXAutomata)
+2. 💪 Opened PR [#5](https://github.com/ZigRazor/CXXAutomata/pull/5) in [ZigRazor/CXXAutomata](https://github.com/ZigRazor/CXXAutomata)
+3. 🎉 Merged PR [#4](https://github.com/ZigRazor/CXXAutomata/pull/4) in [ZigRazor/CXXAutomata](https://github.com/ZigRazor/CXXAutomata)
+4. 💪 Opened PR [#4](https://github.com/ZigRazor/CXXAutomata/pull/4) in [ZigRazor/CXXAutomata](https://github.com/ZigRazor/CXXAutomata)
+5. 🎉 Merged PR [#3](https://github.com/ZigRazor/CXXAutomata/pull/3) in [ZigRazor/CXXAutomata](https://github.com/ZigRazor/CXXAutomata)
 <!--END_SECTION:activity-->
 
 
