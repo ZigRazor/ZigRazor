@@ -58,11 +58,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Developers-Italy/Developers-Italy/issues/1) in [Developers-Italy/Developers-Italy](https://github.com/Developers-Italy/Developers-Italy)
-2. 🗣 Commented on [#3](https://github.com/ZigRazor/CXXGraph/issues/3) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-3. 🎉 Merged PR [#6](https://github.com/ZigRazor/CXXAutomata/pull/6) in [ZigRazor/CXXAutomata](https://github.com/ZigRazor/CXXAutomata)
-4. 💪 Opened PR [#6](https://github.com/ZigRazor/CXXAutomata/pull/6) in [ZigRazor/CXXAutomata](https://github.com/ZigRazor/CXXAutomata)
-5. 🎉 Merged PR [#5](https://github.com/ZigRazor/CXXAutomata/pull/5) in [ZigRazor/CXXAutomata](https://github.com/ZigRazor/CXXAutomata)
+1. ❗️ Opened issue [#54](https://github.com/ZigRazor/CXXGraph/issues/54) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+2. 🗣 Commented on [#1](https://github.com/Developers-Italy/Developers-Italy/issues/1) in [Developers-Italy/Developers-Italy](https://github.com/Developers-Italy/Developers-Italy)
+3. 🗣 Commented on [#3](https://github.com/ZigRazor/CXXGraph/issues/3) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+4. 🎉 Merged PR [#6](https://github.com/ZigRazor/CXXAutomata/pull/6) in [ZigRazor/CXXAutomata](https://github.com/ZigRazor/CXXAutomata)
+5. 💪 Opened PR [#6](https://github.com/ZigRazor/CXXAutomata/pull/6) in [ZigRazor/CXXAutomata](https://github.com/ZigRazor/CXXAutomata)
 <!--END_SECTION:activity-->
 
 
