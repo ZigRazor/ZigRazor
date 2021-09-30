@@ -30,6 +30,7 @@
 <h3 align="left">DEV.to Blog Post</h3>
 
 <!-- DEV-TO-LIST:START -->
+ - Thu Sep 30 2021 11:16 AM - [CXXGraph Library : Header-Only C++ Library for Graph Representation and Algorithms](https://dev.to/zigrazor/cxxgraph-library-header-only-c-library-for-graph-representation-and-algorithms-1afk)
  - Tue Sep 28 2021 11:42 AM - [Do you need a Automata Library ?](https://dev.to/zigrazor/do-you-need-a-automata-library-1i6m)
  - Wed Sep 22 2021 7:24 AM - [Git Commits and Commit Messages : The Final Guide](https://dev.to/zigrazor/git-commits-and-commit-messages-the-final-guide-2g6f)
  - Tue Sep 21 2021 2:19 PM - [Git Hotfix Branches : The Final Guide](https://dev.to/zigrazor/git-hotfix-branches-the-final-guide-1mll)
@@ -38,8 +39,7 @@
  - Mon Aug 30 2021 10:27 AM - [Git Remove Local and Remote Tag : The Final Guide](https://dev.to/zigrazor/git-remove-local-and-remote-tag-the-final-guide-534n)
  - Sat Aug 28 2021 11:08 AM - [Git Merge: The Final Guide](https://dev.to/zigrazor/git-merge-the-final-guide-ldn)
  - Fri Aug 27 2021 7:43 AM - [Git Basics: The Final Guide](https://dev.to/zigrazor/git-basics-the-final-guide-1ne4)
- - Fri Aug 27 2021 7:30 AM - [The Final Guide Index](https://dev.to/zigrazor/the-final-guide-index-4954)
- - Wed Aug 25 2021 8:48 AM - [Git Undo Merge: The Final Guide](https://dev.to/zigrazor/git-undo-merge-the-final-guide-4bj9)<!-- DEV-TO-LIST:END -->
+ - Fri Aug 27 2021 7:30 AM - [The Final Guide Index](https://dev.to/zigrazor/the-final-guide-index-4954)<!-- DEV-TO-LIST:END -->
 
 <h3 align="left">StackOverflow Post</h3>
 
