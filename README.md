@@ -59,10 +59,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/ZigRazor/CXXGraph/issues/3) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-2. ❗️ Opened issue [#2](https://github.com/ZigRazor/CXXLog/issues/2) in [ZigRazor/CXXLog](https://github.com/ZigRazor/CXXLog)
-3. ❗️ Opened issue [#7](https://github.com/ZigRazor/CXXAutomata/issues/7) in [ZigRazor/CXXAutomata](https://github.com/ZigRazor/CXXAutomata)
-4. ❗️ Opened issue [#61](https://github.com/ZigRazor/CXXGraph/issues/61) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-5. ❗️ Opened issue [#60](https://github.com/ZigRazor/CXXGraph/issues/60) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+2. 💪 Opened PR [#62](https://github.com/ZigRazor/CXXGraph/pull/62) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+3. 🗣 Commented on [#3](https://github.com/ZigRazor/CXXGraph/issues/3) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+4. ❗️ Opened issue [#2](https://github.com/ZigRazor/CXXLog/issues/2) in [ZigRazor/CXXLog](https://github.com/ZigRazor/CXXLog)
+5. ❗️ Opened issue [#7](https://github.com/ZigRazor/CXXAutomata/issues/7) in [ZigRazor/CXXAutomata](https://github.com/ZigRazor/CXXAutomata)
 <!--END_SECTION:activity-->
 
 
