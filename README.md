@@ -58,11 +58,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#186](https://github.com/Codesee-io/oss-port/pull/186) in [Codesee-io/oss-port](https://github.com/Codesee-io/oss-port)
-2. 🎉 Merged PR [#3](https://github.com/ZigRazor/CXXLog/pull/3) in [ZigRazor/CXXLog](https://github.com/ZigRazor/CXXLog)
-3. 🎉 Merged PR [#22](https://github.com/ZigRazor/CXXAutomata/pull/22) in [ZigRazor/CXXAutomata](https://github.com/ZigRazor/CXXAutomata)
-4. 🎉 Merged PR [#35](https://github.com/ZigRazor/PyStateMachine/pull/35) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
-5. 🎉 Merged PR [#68](https://github.com/ZigRazor/CXXGraph/pull/68) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+1. ❗️ Opened issue [#40](https://github.com/ZigRazor/PyStateMachine/issues/40) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
+2. ❗️ Opened issue [#39](https://github.com/ZigRazor/PyStateMachine/issues/39) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
+3. ❗️ Opened issue [#38](https://github.com/ZigRazor/PyStateMachine/issues/38) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
+4. ❗️ Opened issue [#37](https://github.com/ZigRazor/PyStateMachine/issues/37) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
+5. 🎉 Merged PR [#36](https://github.com/ZigRazor/PyStateMachine/pull/36) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
 <!--END_SECTION:activity-->
 
 
