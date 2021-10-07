@@ -58,11 +58,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ZigRazor/LogParser/pull/2) in [ZigRazor/LogParser](https://github.com/ZigRazor/LogParser)
-2. 💪 Opened PR [#2](https://github.com/ZigRazor/LogParser/pull/2) in [ZigRazor/LogParser](https://github.com/ZigRazor/LogParser)
-3. ❗️ Opened issue [#50](https://github.com/ZigRazor/PyStateMachine/issues/50) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
-4. 🎉 Merged PR [#48](https://github.com/ZigRazor/PyStateMachine/pull/48) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
-5. ❗️ Closed issue [#37](https://github.com/ZigRazor/PyStateMachine/issues/37) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
+1. 🎉 Merged PR [#4](https://github.com/ZigRazor/LogParser/pull/4) in [ZigRazor/LogParser](https://github.com/ZigRazor/LogParser)
+2. 🎉 Merged PR [#3](https://github.com/ZigRazor/LogParser/pull/3) in [ZigRazor/LogParser](https://github.com/ZigRazor/LogParser)
+3. 💪 Opened PR [#3](https://github.com/ZigRazor/LogParser/pull/3) in [ZigRazor/LogParser](https://github.com/ZigRazor/LogParser)
+4. 🎉 Merged PR [#2](https://github.com/ZigRazor/LogParser/pull/2) in [ZigRazor/LogParser](https://github.com/ZigRazor/LogParser)
+5. 💪 Opened PR [#2](https://github.com/ZigRazor/LogParser/pull/2) in [ZigRazor/LogParser](https://github.com/ZigRazor/LogParser)
 <!--END_SECTION:activity-->
 
 
