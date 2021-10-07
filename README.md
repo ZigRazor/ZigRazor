@@ -58,11 +58,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/ZigRazor/PyStateMachine/issues/37) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
-2. 🗣 Commented on [#47](https://github.com/ZigRazor/PyStateMachine/issues/47) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
-3. 🗣 Commented on [#45](https://github.com/ZigRazor/PyStateMachine/issues/45) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
-4. 🎉 Merged PR [#47](https://github.com/ZigRazor/PyStateMachine/pull/47) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
-5. ❗️ Closed issue [#31](https://github.com/ZigRazor/PyStateMachine/issues/31) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
+1. ❗️ Opened issue [#50](https://github.com/ZigRazor/PyStateMachine/issues/50) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
+2. 🎉 Merged PR [#48](https://github.com/ZigRazor/PyStateMachine/pull/48) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
+3. ❗️ Closed issue [#37](https://github.com/ZigRazor/PyStateMachine/issues/37) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
+4. 🗣 Commented on [#48](https://github.com/ZigRazor/PyStateMachine/issues/48) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
+5. ❌ Closed PR [#45](https://github.com/ZigRazor/PyStateMachine/pull/45) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
 <!--END_SECTION:activity-->
 
 
