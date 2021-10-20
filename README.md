@@ -58,11 +58,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#135](https://github.com/ZigRazor/CXXGraph/pull/135) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-2. ❗️ Closed issue [#132](https://github.com/ZigRazor/CXXGraph/issues/132) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-3. 🎉 Merged PR [#131](https://github.com/ZigRazor/CXXGraph/pull/131) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-4. ❗️ Closed issue [#130](https://github.com/ZigRazor/CXXGraph/issues/130) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-5. 🗣 Commented on [#132](https://github.com/ZigRazor/CXXGraph/issues/132) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+1. ❗️ Closed issue [#55](https://github.com/ZigRazor/CXXGraph/issues/55) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+2. 🎉 Merged PR [#136](https://github.com/ZigRazor/CXXGraph/pull/136) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+3. 💪 Opened PR [#137](https://github.com/ZigRazor/CXXGraph/pull/137) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+4. 🎉 Merged PR [#135](https://github.com/ZigRazor/CXXGraph/pull/135) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+5. ❗️ Closed issue [#132](https://github.com/ZigRazor/CXXGraph/issues/132) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
 <!--END_SECTION:activity-->
 
 
