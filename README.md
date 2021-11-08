@@ -51,7 +51,7 @@
  - Mon Jul 05 2021 3:00 PM - [Answer by Zig Razor for Finding all cycles in a directed graph](https://stackoverflow.com/questions/546655/finding-all-cycles-in-a-directed-graph/68258261#68258261)
  - Mon Jul 05 2021 2:01 PM - [Answer by Zig Razor for C library for graphs](https://stackoverflow.com/questions/10149878/c-library-for-graphs/68257444#68257444)
  - Tue May 25 2021 10:10 AM - [Answer by Zig Razor for fPrintf an integer gives weird results](https://stackoverflow.com/questions/67685529/fprintf-an-integer-gives-weird-results/67685900#67685900)
- - Mon May 17 2021 11:53 AM - [Answer by Zig Razor for How to open apps from bash (Linux)](https://stackoverflow.com/questions/67568923/how-to-open-apps-from-bash-linux/67569153#67569153)
+ - Mon May 17 2021 11:53 AM - [Answer by Zig Razor for How to open apps from bash &lpar;Linux&rpar;](https://stackoverflow.com/questions/67568923/how-to-open-apps-from-bash-linux/67569153#67569153)
  - Mon May 17 2021 7:05 AM - [Answer by Zig Razor for C++: Best way to access class members using index](https://stackoverflow.com/questions/67565067/c-best-way-to-access-class-members-using-index/67565305#67565305)
  - Fri May 14 2021 3:29 PM - [Answer by Zig Razor for How can I change path to new partion on second SSD?](https://stackoverflow.com/questions/67533741/how-can-i-change-path-to-new-partion-on-second-ssd/67536898#67536898)<!-- STACKOVERFLOW-LIST:END -->
 
