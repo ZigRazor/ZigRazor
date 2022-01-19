@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **zigrazor@gmail.com**
 
-- Follow me on figshare(https://figshare.com/authors/Matteo_Botticci/11972360)
+- Follow me on [figshare](https://figshare.com/authors/Matteo_Botticci/11972360)
 
 <h3 align="left">DEV.to Blog Post</h3>
 
