@@ -32,16 +32,16 @@
 <h3 align="left">DEV.to Blog Post</h3>
 
 <!-- DEV-TO-LIST:START -->
+ - Fri Feb 25 2022 10:20 AM - [MTL First Beta Release](https://dev.to/zigrazor/mtl-first-beta-release-246f)
+ - Fri Feb 18 2022 12:52 PM - [Node.js New Project Ideas Discussion](https://dev.to/zigrazor/nodejs-new-project-ideas-discussion-3852)
+ - Thu Feb 03 2022 11:21 AM - [Python New Project Ideas Discussion](https://dev.to/zigrazor/python-new-project-ideas-discussion-84m)
+ - Thu Feb 03 2022 11:14 AM - [C++ New Project Ideas Discussion](https://dev.to/zigrazor/c-new-project-ideas-discussion-3okb)
  - Fri Oct 15 2021 9:56 AM - [CXXGraph Library Release v0.2.0](https://dev.to/zigrazor/cxxgraph-library-release-v020-5f0a)
  - Fri Oct 08 2021 10:11 AM - [Hacktoberfest Beginners and Advanced Repos to Contribute to](https://dev.to/zigrazor/hacktoberfest-beginners-and-advanced-repos-to-contribute-to-p1)
  - Fri Oct 01 2021 6:40 AM - [My Hacktoberfest Repos](https://dev.to/zigrazor/my-hacktoberfest-repos-2gm7)
  - Thu Sep 30 2021 11:16 AM - [CXXGraph Library : Header-Only C++ Library for Graph Representation and Algorithms](https://dev.to/zigrazor/cxxgraph-library-header-only-c-library-for-graph-representation-and-algorithms-1afk)
  - Tue Sep 28 2021 11:42 AM - [Do you need a Automata Library ?](https://dev.to/zigrazor/do-you-need-a-automata-library-1i6m)
- - Wed Sep 22 2021 7:24 AM - [Git Commits and Commit Messages : The Final Guide](https://dev.to/zigrazor/git-commits-and-commit-messages-the-final-guide-2g6f)
- - Tue Sep 21 2021 2:19 PM - [Git Hotfix Branches : The Final Guide](https://dev.to/zigrazor/git-hotfix-branches-the-final-guide-1mll)
- - Fri Sep 03 2021 9:48 AM - [Looking for Contributors/Collaborators for Open-Source Projects](https://dev.to/zigrazor/looking-for-contributors-collaborators-for-open-source-projects-2dk7)
- - Wed Sep 01 2021 6:42 AM - [Pointer vs Reference in C++: The Final Guide](https://dev.to/zigrazor/pointer-vs-reference-in-c-the-final-guide-3475)
- - Mon Aug 30 2021 10:27 AM - [Git Remove Local and Remote Tag : The Final Guide](https://dev.to/zigrazor/git-remove-local-and-remote-tag-the-final-guide-534n)<!-- DEV-TO-LIST:END -->
+ - Wed Sep 22 2021 7:24 AM - [Git Commits and Commit Messages : The Final Guide](https://dev.to/zigrazor/git-commits-and-commit-messages-the-final-guide-2g6f)<!-- DEV-TO-LIST:END -->
 
 <h3 align="left">StackOverflow Post</h3>
 
