@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#187](https://github.com/ZigRazor/CXXGraph/issues/187) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-2. ❗️ Opened issue [#186](https://github.com/ZigRazor/CXXGraph/issues/186) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-3. 🗣 Commented on [#323](https://github.com/open-source-ideas/ideas/issues/323) in [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas)
-4. ❗️ Opened issue [#968](https://github.com/dmtcp/dmtcp/issues/968) in [dmtcp/dmtcp](https://github.com/dmtcp/dmtcp)
-5. 🎉 Merged PR [#185](https://github.com/ZigRazor/CXXGraph/pull/185) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+1. 💪 Opened PR [#188](https://github.com/ZigRazor/CXXGraph/pull/188) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+2. ❗️ Opened issue [#187](https://github.com/ZigRazor/CXXGraph/issues/187) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+3. ❗️ Opened issue [#186](https://github.com/ZigRazor/CXXGraph/issues/186) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+4. 🗣 Commented on [#323](https://github.com/open-source-ideas/ideas/issues/323) in [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas)
+5. ❗️ Opened issue [#968](https://github.com/dmtcp/dmtcp/issues/968) in [dmtcp/dmtcp](https://github.com/dmtcp/dmtcp)
 <!--END_SECTION:activity-->
 
 
