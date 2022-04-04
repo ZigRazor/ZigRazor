@@ -60,8 +60,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#201](https://github.com/ZigRazor/CXXGraph/pull/201) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-2. 🗣 Commented on [#151](https://github.com/cneben/QuickQanava/issues/151) in [cneben/QuickQanava](https://github.com/cneben/QuickQanava)
+1. 🎉 Merged PR [#201](https://github.com/ZigRazor/CXXGraph/pull/201) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+2. 💪 Opened PR [#201](https://github.com/ZigRazor/CXXGraph/pull/201) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
 3. 🗣 Commented on [#151](https://github.com/cneben/QuickQanava/issues/151) in [cneben/QuickQanava](https://github.com/cneben/QuickQanava)
 4. 🗣 Commented on [#151](https://github.com/cneben/QuickQanava/issues/151) in [cneben/QuickQanava](https://github.com/cneben/QuickQanava)
 5. 🗣 Commented on [#151](https://github.com/cneben/QuickQanava/issues/151) in [cneben/QuickQanava](https://github.com/cneben/QuickQanava)
