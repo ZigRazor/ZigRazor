@@ -32,6 +32,7 @@
 <h3 align="left">DEV.to Blog Post</h3>
 
 <!-- DEV-TO-LIST:START -->
+ - Tue May 24 2022 7:48 AM - [MicroService Framework in C++](https://dev.to/zigrazor/microservice-framework-in-c-364p)
  - Fri Feb 25 2022 10:20 AM - [MTL First Beta Release](https://dev.to/zigrazor/mtl-first-beta-release-246f)
  - Fri Feb 18 2022 12:52 PM - [Node.js New Project Ideas Discussion](https://dev.to/zigrazor/nodejs-new-project-ideas-discussion-3852)
  - Thu Feb 03 2022 11:21 AM - [Python New Project Ideas Discussion](https://dev.to/zigrazor/python-new-project-ideas-discussion-84m)
@@ -40,8 +41,7 @@
  - Fri Oct 08 2021 10:11 AM - [Hacktoberfest Beginners and Advanced Repos to Contribute to](https://dev.to/zigrazor/hacktoberfest-beginners-and-advanced-repos-to-contribute-to-p1)
  - Fri Oct 01 2021 6:40 AM - [My Hacktoberfest Repos](https://dev.to/zigrazor/my-hacktoberfest-repos-2gm7)
  - Thu Sep 30 2021 11:16 AM - [CXXGraph Library : Header-Only C++ Library for Graph Representation and Algorithms](https://dev.to/zigrazor/cxxgraph-library-header-only-c-library-for-graph-representation-and-algorithms-1afk)
- - Tue Sep 28 2021 11:42 AM - [Do you need a Automata Library ?](https://dev.to/zigrazor/do-you-need-a-automata-library-1i6m)
- - Wed Sep 22 2021 7:24 AM - [Git Commits and Commit Messages : The Final Guide](https://dev.to/zigrazor/git-commits-and-commit-messages-the-final-guide-2g6f)<!-- DEV-TO-LIST:END -->
+ - Tue Sep 28 2021 11:42 AM - [Do you need a Automata Library ?](https://dev.to/zigrazor/do-you-need-a-automata-library-1i6m)<!-- DEV-TO-LIST:END -->
 
 <h3 align="left">StackOverflow Post</h3>
 
