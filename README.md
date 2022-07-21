@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#207](https://github.com/ZigRazor/CXXGraph/pull/207) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-2. 🎉 Merged PR [#1](https://github.com/ZigRazor/CXXMicroService/pull/1) in [ZigRazor/CXXMicroService](https://github.com/ZigRazor/CXXMicroService)
-3. 💪 Opened PR [#1](https://github.com/ZigRazor/CXXMicroService/pull/1) in [ZigRazor/CXXMicroService](https://github.com/ZigRazor/CXXMicroService)
-4. 💪 Opened PR [#1218](https://github.com/fffaraz/awesome-cpp/pull/1218) in [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
-5. 🗣 Commented on [#205](https://github.com/ZigRazor/CXXGraph/issues/205) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+1. ❌ Closed PR [#208](https://github.com/ZigRazor/CXXGraph/pull/208) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+2. 🗣 Commented on [#208](https://github.com/ZigRazor/CXXGraph/issues/208) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+3. 🎉 Merged PR [#207](https://github.com/ZigRazor/CXXGraph/pull/207) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+4. 🎉 Merged PR [#1](https://github.com/ZigRazor/CXXMicroService/pull/1) in [ZigRazor/CXXMicroService](https://github.com/ZigRazor/CXXMicroService)
+5. 💪 Opened PR [#1](https://github.com/ZigRazor/CXXMicroService/pull/1) in [ZigRazor/CXXMicroService](https://github.com/ZigRazor/CXXMicroService)
 <!--END_SECTION:activity-->
 
 
