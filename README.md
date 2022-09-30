@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#213](https://github.com/ZigRazor/CXXGraph/issues/213) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-2. 💪 Opened PR [#4](https://github.com/Gismo1337/hacktoberfest-project-list/pull/4) in [Gismo1337/hacktoberfest-project-list](https://github.com/Gismo1337/hacktoberfest-project-list)
-3. ❗️ Opened issue [#216](https://github.com/ZigRazor/CXXGraph/issues/216) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-4. ❗️ Opened issue [#215](https://github.com/ZigRazor/CXXGraph/issues/215) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-5. ❗️ Opened issue [#214](https://github.com/ZigRazor/CXXGraph/issues/214) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+1. 🗣 Commented on [#216](https://github.com/ZigRazor/CXXGraph/issues/216) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+2. 🗣 Commented on [#213](https://github.com/ZigRazor/CXXGraph/issues/213) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+3. 💪 Opened PR [#4](https://github.com/Gismo1337/hacktoberfest-project-list/pull/4) in [Gismo1337/hacktoberfest-project-list](https://github.com/Gismo1337/hacktoberfest-project-list)
+4. ❗️ Opened issue [#216](https://github.com/ZigRazor/CXXGraph/issues/216) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+5. ❗️ Opened issue [#215](https://github.com/ZigRazor/CXXGraph/issues/215) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
 <!--END_SECTION:activity-->
 
 
