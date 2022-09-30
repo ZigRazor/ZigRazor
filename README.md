@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/moya-lang/Allocator/issues/19) in [moya-lang/Allocator](https://github.com/moya-lang/Allocator)
-2. 🎉 Merged PR [#210](https://github.com/ZigRazor/CXXGraph/pull/210) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-3. 🗣 Commented on [#209](https://github.com/ZigRazor/CXXGraph/issues/209) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-4. 🗣 Commented on [#209](https://github.com/ZigRazor/CXXGraph/issues/209) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-5. ❌ Closed PR [#208](https://github.com/ZigRazor/CXXGraph/pull/208) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+1. ❗️ Opened issue [#216](https://github.com/ZigRazor/CXXGraph/issues/216) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+2. ❗️ Opened issue [#215](https://github.com/ZigRazor/CXXGraph/issues/215) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+3. ❗️ Opened issue [#214](https://github.com/ZigRazor/CXXGraph/issues/214) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+4. ❗️ Opened issue [#213](https://github.com/ZigRazor/CXXGraph/issues/213) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+5. ❗️ Opened issue [#212](https://github.com/ZigRazor/CXXGraph/issues/212) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
 <!--END_SECTION:activity-->
 
 
