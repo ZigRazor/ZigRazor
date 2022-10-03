@@ -32,6 +32,7 @@
 <h3 align="left">DEV.to Blog Post</h3>
 
 <!-- DEV-TO-LIST:START -->
+ - Mon Oct 03 2022 9:40 AM - [Hacktoberfest is started, give your contribution!](https://dev.to/zigrazor/hacktoberfest-is-started-give-your-contribution-7en)
  - Fri Sep 30 2022 1:02 PM - [Hacktobefest 2022: My Repo](https://dev.to/zigrazor/hacktobefest-2022-my-repo-9bg)
  - Tue May 24 2022 7:48 AM - [MicroService Framework in C++](https://dev.to/zigrazor/microservice-framework-in-c-364p)
  - Fri Feb 25 2022 10:20 AM - [MTL First Beta Release](https://dev.to/zigrazor/mtl-first-beta-release-246f)
@@ -40,8 +41,7 @@
  - Thu Feb 03 2022 11:14 AM - [C++ New Project Ideas Discussion](https://dev.to/zigrazor/c-new-project-ideas-discussion-3okb)
  - Fri Oct 15 2021 9:56 AM - [CXXGraph Library Release v0.2.0](https://dev.to/zigrazor/cxxgraph-library-release-v020-5f0a)
  - Fri Oct 08 2021 10:11 AM - [Hacktoberfest Beginners and Advanced Repos to Contribute to](https://dev.to/zigrazor/hacktoberfest-beginners-and-advanced-repos-to-contribute-to-p1)
- - Fri Oct 01 2021 6:40 AM - [My Hacktoberfest Repos](https://dev.to/zigrazor/my-hacktoberfest-repos-2gm7)
- - Thu Sep 30 2021 11:16 AM - [CXXGraph Library : Header-Only C++ Library for Graph Representation and Algorithms](https://dev.to/zigrazor/cxxgraph-library-header-only-c-library-for-graph-representation-and-algorithms-1afk)<!-- DEV-TO-LIST:END -->
+ - Fri Oct 01 2021 6:40 AM - [My Hacktoberfest Repos](https://dev.to/zigrazor/my-hacktoberfest-repos-2gm7)<!-- DEV-TO-LIST:END -->
 
 <h3 align="left">StackOverflow Post</h3>
 
