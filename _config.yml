@@ -15,13 +15,14 @@ nav_pages:
 #  - press.md
   - about.md
 #  - contact.md
-#  - README.md
+  - README.md
 
 
 # Pages to include in footer navigation
 footer_pages:
-  - books.md
-  - fine-print.md
+#  - books.md
+#  - fine-print.md
+  - README.md
 
 # Disqus login information, for comments
 #disqus:
