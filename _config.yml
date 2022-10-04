@@ -1,3 +1,61 @@
 #build settings
 markdown: kramdown
 remote_theme: benbalter/retlab
+
+
+title: Zig Razor
+description: Open Source Developer, Engineer and Product Manager
+
+lang: en-US
+
+# Pages to include in header navigation
+nav_pages:
+#  - index.html
+#  - talks.md
+#  - press.md
+#  - about.md
+#  - contact.md
+  - README.md
+
+
+# Pages to include in footer navigation
+footer_pages:
+  - books.md
+  - fine-print.md
+
+# Disqus login information, for comments
+#disqus:
+#  shortname: DISQUS_USERNAME
+
+# Links to include on the contact page
+contact_links:
+  - name: Github
+    url: https://github.com/ZigRazor
+    icon: github
+#  - name: Facebook
+#    url: https://facebook.com/BenBalter
+#    icon: facebook
+
+# Front matter defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      comments: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      comments: false
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-github-metadata
+  - jekyll-feed
