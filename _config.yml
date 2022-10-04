@@ -15,14 +15,14 @@ nav_pages:
 #  - press.md
   - about.md
 #  - contact.md
-  - README.md
+#  - README.md
 
 
 # Pages to include in footer navigation
 footer_pages:
 #  - books.md
 #  - fine-print.md
-  - README.md
+#  - README.md
 
 # Disqus login information, for comments
 #disqus:
@@ -30,9 +30,9 @@ footer_pages:
 
 # Links to include on the contact page
 contact_links:
-  - name: Github
-    url: https://github.com/ZigRazor
-    icon: github
+#  - name: Github
+#    url: https://github.com/ZigRazor
+#    icon: github
 #  - name: Facebook
 #    url: https://facebook.com/BenBalter
 #    icon: facebook
@@ -41,7 +41,7 @@ contact_links:
 defaults:
   -
     scope:
-      path: "_posts"
+      path: ""
       type: "posts"
     values:
       layout: post
