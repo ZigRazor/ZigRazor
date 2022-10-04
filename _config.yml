@@ -10,11 +10,11 @@ lang: en-US
 
 # Pages to include in header navigation
 nav_pages:
-  - index.html
-  - talks.md
-  - press.md
+#  - index.html
+#  - talks.md
+#  - press.md
   - about.md
-  - contact.md
+#  - contact.md
 #  - README.md
 
 
