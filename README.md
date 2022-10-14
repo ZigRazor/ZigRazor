@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#244](https://github.com/ZigRazor/CXXGraph/issues/244) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-2. 🗣 Commented on [#243](https://github.com/ZigRazor/CXXGraph/issues/243) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-3. 🗣 Commented on [#242](https://github.com/ZigRazor/CXXGraph/issues/242) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-4. 🗣 Commented on [#238](https://github.com/ZigRazor/CXXGraph/issues/238) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-5. 🗣 Commented on [#236](https://github.com/ZigRazor/CXXGraph/issues/236) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+1. 🗣 Commented on [#245](https://github.com/ZigRazor/CXXGraph/issues/245) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+2. 🗣 Commented on [#104](https://github.com/ZigRazor/CXXGraph/issues/104) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+3. ❗️ Opened issue [#244](https://github.com/ZigRazor/CXXGraph/issues/244) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+4. 🗣 Commented on [#243](https://github.com/ZigRazor/CXXGraph/issues/243) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+5. 🗣 Commented on [#242](https://github.com/ZigRazor/CXXGraph/issues/242) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
 <!--END_SECTION:activity-->
 
 
