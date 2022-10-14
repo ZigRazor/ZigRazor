@@ -32,6 +32,7 @@
 <h3 align="left">DEV.to Blog Post</h3>
 
 <!-- DEV-TO-LIST:START -->
+ - Fri Oct 14 2022 6:23 AM - [2 Weeks of Hacktoberfest, How is it going??](https://dev.to/zigrazor/2-weeks-of-hacktoberfest-how-is-it-going-4ilk)
  - Mon Oct 03 2022 9:40 AM - [Hacktoberfest is started, give your contribution!](https://dev.to/zigrazor/hacktoberfest-is-started-give-your-contribution-7en)
  - Fri Sep 30 2022 1:02 PM - [Hacktobefest 2022: My Repo](https://dev.to/zigrazor/hacktobefest-2022-my-repo-9bg)
  - Tue May 24 2022 7:48 AM - [MicroService Framework in C++](https://dev.to/zigrazor/microservice-framework-in-c-364p)
@@ -40,8 +41,7 @@
  - Thu Feb 03 2022 11:21 AM - [Python New Project Ideas Discussion](https://dev.to/zigrazor/python-new-project-ideas-discussion-84m)
  - Thu Feb 03 2022 11:14 AM - [C++ New Project Ideas Discussion](https://dev.to/zigrazor/c-new-project-ideas-discussion-3okb)
  - Fri Oct 15 2021 9:56 AM - [CXXGraph Library Release v0.2.0](https://dev.to/zigrazor/cxxgraph-library-release-v020-5f0a)
- - Fri Oct 08 2021 10:11 AM - [Hacktoberfest Beginners and Advanced Repos to Contribute to](https://dev.to/zigrazor/hacktoberfest-beginners-and-advanced-repos-to-contribute-to-p1)
- - Fri Oct 01 2021 6:40 AM - [My Hacktoberfest Repos](https://dev.to/zigrazor/my-hacktoberfest-repos-2gm7)<!-- DEV-TO-LIST:END -->
+ - Fri Oct 08 2021 10:11 AM - [Hacktoberfest Beginners and Advanced Repos to Contribute to](https://dev.to/zigrazor/hacktoberfest-beginners-and-advanced-repos-to-contribute-to-p1)<!-- DEV-TO-LIST:END -->
 
 <h3 align="left">StackOverflow Post</h3>
 
