@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/ZigRazor/PyStateMachine/pull/57) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
-2. ❗️ Closed issue [#4](https://github.com/ZigRazor/PyStateMachine/issues/4) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
-3. 🗣 Commented on [#107](https://github.com/ZigRazor/CXXGraph/issues/107) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-4. 🗣 Commented on [#183](https://github.com/ZigRazor/CXXGraph/issues/183) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-5. 🗣 Commented on [#245](https://github.com/ZigRazor/CXXGraph/issues/245) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+1. ❗️ Closed issue [#212](https://github.com/ZigRazor/CXXGraph/issues/212) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+2. 🗣 Commented on [#212](https://github.com/ZigRazor/CXXGraph/issues/212) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+3. 🗣 Commented on [#104](https://github.com/ZigRazor/CXXGraph/issues/104) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+4. 🎉 Merged PR [#57](https://github.com/ZigRazor/PyStateMachine/pull/57) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
+5. ❗️ Closed issue [#4](https://github.com/ZigRazor/PyStateMachine/issues/4) in [ZigRazor/PyStateMachine](https://github.com/ZigRazor/PyStateMachine)
 <!--END_SECTION:activity-->
 
 
