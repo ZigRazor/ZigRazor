@@ -46,6 +46,7 @@
 <h3 align="left">StackOverflow Post</h3>
 
 <!-- STACKOVERFLOW-LIST:START -->
+ - Tue Dec 06 2022 4:54 PM - [Answer by Zig Razor for Can&#39;t read a structure from text file - C](https://stackoverflow.com/questions/74705742/cant-read-a-structure-from-text-file-c/74706303#74706303)
  - Fri Jul 15 2022 3:34 PM - [Answer by Zig Razor for C++ program gives up when reading large binary file](https://stackoverflow.com/questions/72996011/c-program-gives-up-when-reading-large-binary-file/72996388#72996388)
  - Mon Aug 30 2021 7:02 AM - [Answer by Zig Razor for Data structures for graphs](https://stackoverflow.com/questions/68873161/data-structures-for-graphs/68980091#68980091)
  - Mon Jul 05 2021 4:30 PM - [Answer by Zig Razor for How to find the distance between two nodes using BFS?](https://stackoverflow.com/questions/13171038/how-to-find-the-distance-between-two-nodes-using-bfs/68259387#68259387)
@@ -54,8 +55,7 @@
  - Mon Jul 05 2021 3:00 PM - [Answer by Zig Razor for Finding all cycles in a directed graph](https://stackoverflow.com/questions/546655/finding-all-cycles-in-a-directed-graph/68258261#68258261)
  - Mon Jul 05 2021 2:01 PM - [Answer by Zig Razor for C library for graphs](https://stackoverflow.com/questions/10149878/c-library-for-graphs/68257444#68257444)
  - Tue May 25 2021 10:10 AM - [Answer by Zig Razor for fPrintf an integer gives weird results](https://stackoverflow.com/questions/67685529/fprintf-an-integer-gives-weird-results/67685900#67685900)
- - Mon May 17 2021 11:53 AM - [Answer by Zig Razor for How to open apps from bash &lpar;Linux&rpar;](https://stackoverflow.com/questions/67568923/how-to-open-apps-from-bash-linux/67569153#67569153)
- - Mon May 17 2021 7:05 AM - [Answer by Zig Razor for C++: Best way to access class members using index](https://stackoverflow.com/questions/67565067/c-best-way-to-access-class-members-using-index/67565305#67565305)<!-- STACKOVERFLOW-LIST:END -->
+ - Mon May 17 2021 11:53 AM - [Answer by Zig Razor for How to open apps from bash &lpar;Linux&rpar;](https://stackoverflow.com/questions/67568923/how-to-open-apps-from-bash-linux/67569153#67569153)<!-- STACKOVERFLOW-LIST:END -->
 
 ### :zap: Recent Activity
 
