@@ -46,6 +46,7 @@
 <h3 align="left">StackOverflow Post</h3>
 
 <!-- STACKOVERFLOW-LIST:START -->
+ - Tue Dec 06 2022 7:04 PM - [Answer by Zig Razor for How to get correct type when duplicate class names in Typescript?](https://stackoverflow.com/questions/74707618/how-to-get-correct-type-when-duplicate-class-names-in-typescript/74707880#74707880)
  - Tue Dec 06 2022 6:03 PM - [Answer by Zig Razor for First value in array is not getting updated](https://stackoverflow.com/questions/74706932/first-value-in-array-is-not-getting-updated/74707182#74707182)
  - Tue Dec 06 2022 5:42 PM - [Answer by Zig Razor for How to set minimum and maximum length of a string argument?](https://stackoverflow.com/questions/74706594/how-to-set-minimum-and-maximum-length-of-a-string-argument/74706933#74706933)
  - Tue Dec 06 2022 4:54 PM - [Answer by Zig Razor for Can&#39;t read a structure from text file - C](https://stackoverflow.com/questions/74705742/cant-read-a-structure-from-text-file-c/74706303#74706303)
@@ -54,8 +55,7 @@
  - Mon Jul 05 2021 4:30 PM - [Answer by Zig Razor for How to find the distance between two nodes using BFS?](https://stackoverflow.com/questions/13171038/how-to-find-the-distance-between-two-nodes-using-bfs/68259387#68259387)
  - Mon Jul 05 2021 4:28 PM - [Answer by Zig Razor for C++ Graph Vertex Coloring Library or Source Code](https://stackoverflow.com/questions/5459347/c-graph-vertex-coloring-library-or-source-code/68259366#68259366)
  - Mon Jul 05 2021 4:27 PM - [Answer by Zig Razor for Implementation of an adjacency list graph representation](https://stackoverflow.com/questions/14133115/implementation-of-an-adjacency-list-graph-representation/68259346#68259346)
- - Mon Jul 05 2021 3:00 PM - [Answer by Zig Razor for Finding all cycles in a directed graph](https://stackoverflow.com/questions/546655/finding-all-cycles-in-a-directed-graph/68258261#68258261)
- - Mon Jul 05 2021 2:01 PM - [Answer by Zig Razor for C library for graphs](https://stackoverflow.com/questions/10149878/c-library-for-graphs/68257444#68257444)<!-- STACKOVERFLOW-LIST:END -->
+ - Mon Jul 05 2021 3:00 PM - [Answer by Zig Razor for Finding all cycles in a directed graph](https://stackoverflow.com/questions/546655/finding-all-cycles-in-a-directed-graph/68258261#68258261)<!-- STACKOVERFLOW-LIST:END -->
 
 ### :zap: Recent Activity
 
