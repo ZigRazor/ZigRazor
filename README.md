@@ -60,10 +60,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#595](https://github.com/HaxeFoundation/haxelib/issues/595) in [HaxeFoundation/haxelib](https://github.com/HaxeFoundation/haxelib)
-2. 🗣 Commented on [#271](https://github.com/ZigRazor/CXXGraph/issues/271) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+1. 🗣 Commented on [#595](https://github.com/HaxeFoundation/haxelib/issues/595) in [HaxeFoundation/haxelib](https://github.com/HaxeFoundation/haxelib)
+2. ❗️ Opened issue [#595](https://github.com/HaxeFoundation/haxelib/issues/595) in [HaxeFoundation/haxelib](https://github.com/HaxeFoundation/haxelib)
 3. 🗣 Commented on [#271](https://github.com/ZigRazor/CXXGraph/issues/271) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-4. 🗣 Commented on [#315](https://github.com/open-source-ideas/ideas/issues/315) in [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas)
+4. 🗣 Commented on [#271](https://github.com/ZigRazor/CXXGraph/issues/271) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
 5. 🗣 Commented on [#315](https://github.com/open-source-ideas/ideas/issues/315) in [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas)
 <!--END_SECTION:activity-->
 
