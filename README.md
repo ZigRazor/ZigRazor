@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/ZigRazor/DependencyChangeChecker/pull/1) in [ZigRazor/DependencyChangeChecker](https://github.com/ZigRazor/DependencyChangeChecker)
-2. 🗣 Commented on [#274](https://github.com/ZigRazor/CXXGraph/issues/274) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-3. 🗣 Commented on [#275](https://github.com/ZigRazor/CXXGraph/issues/275) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-4. 💪 Opened PR [#822](https://github.com/neoml-lib/neoml/pull/822) in [neoml-lib/neoml](https://github.com/neoml-lib/neoml)
-5. 🗣 Commented on [#821](https://github.com/neoml-lib/neoml/issues/821) in [neoml-lib/neoml](https://github.com/neoml-lib/neoml)
+1. 🗣 Commented on [#1](https://github.com/ZigRazor/DependencyChangeChecker/issues/1) in [ZigRazor/DependencyChangeChecker](https://github.com/ZigRazor/DependencyChangeChecker)
+2. 💪 Opened PR [#1](https://github.com/ZigRazor/DependencyChangeChecker/pull/1) in [ZigRazor/DependencyChangeChecker](https://github.com/ZigRazor/DependencyChangeChecker)
+3. 🗣 Commented on [#274](https://github.com/ZigRazor/CXXGraph/issues/274) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+4. 🗣 Commented on [#275](https://github.com/ZigRazor/CXXGraph/issues/275) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+5. 💪 Opened PR [#822](https://github.com/neoml-lib/neoml/pull/822) in [neoml-lib/neoml](https://github.com/neoml-lib/neoml)
 <!--END_SECTION:activity-->
 
 
