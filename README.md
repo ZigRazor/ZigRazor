@@ -46,6 +46,8 @@
 <h3 align="left">StackOverflow Post</h3>
 
 <!-- STACKOVERFLOW-LIST:START -->
+ - Wed Jun 21 2023 7:47 AM - [Answer by Zig Razor for An error occurred while constructing a 3D vector class](https://stackoverflow.com/questions/76521027/an-error-occurred-while-constructing-a-3d-vector-class/76521081#76521081)
+ - Wed Jun 21 2023 7:43 AM - [Answer by Zig Razor for Github desktop showing a number at branch like #46](https://stackoverflow.com/questions/76520995/github-desktop-showing-a-number-at-branch-like-46/76521043#76521043)
  - Thu Dec 15 2022 9:52 AM - [Answer by Zig Razor for Write a Bash Script to edit a csv file](https://stackoverflow.com/questions/74809612/write-a-bash-script-to-edit-a-csv-file/74809648#74809648)
  - Wed Dec 07 2022 9:34 AM - [Answer by Zig Razor for In yaml-cpp, can the node tags be used to store custom data?](https://stackoverflow.com/questions/74714155/in-yaml-cpp-can-the-node-tags-be-used-to-store-custom-data/74714456#74714456)
  - Tue Dec 06 2022 7:04 PM - [Answer by Zig Razor for How to get correct type when duplicate class names in Typescript?](https://stackoverflow.com/questions/74707618/how-to-get-correct-type-when-duplicate-class-names-in-typescript/74707880#74707880)
@@ -53,9 +55,7 @@
  - Tue Dec 06 2022 5:42 PM - [Answer by Zig Razor for How to set minimum and maximum length of a string argument?](https://stackoverflow.com/questions/74706594/how-to-set-minimum-and-maximum-length-of-a-string-argument/74706933#74706933)
  - Tue Dec 06 2022 4:54 PM - [Answer by Zig Razor for Can&#39;t read a structure from text file - C](https://stackoverflow.com/questions/74705742/cant-read-a-structure-from-text-file-c/74706303#74706303)
  - Fri Jul 15 2022 3:34 PM - [Answer by Zig Razor for C++ program gives up when reading large binary file](https://stackoverflow.com/questions/72996011/c-program-gives-up-when-reading-large-binary-file/72996388#72996388)
- - Mon Aug 30 2021 7:02 AM - [Answer by Zig Razor for Data structures for graphs](https://stackoverflow.com/questions/68873161/data-structures-for-graphs/68980091#68980091)
- - Mon Jul 05 2021 4:30 PM - [Answer by Zig Razor for How to find the distance between two nodes using BFS?](https://stackoverflow.com/questions/13171038/how-to-find-the-distance-between-two-nodes-using-bfs/68259387#68259387)
- - Mon Jul 05 2021 4:28 PM - [Answer by Zig Razor for C++ Graph Vertex Coloring Library or Source Code](https://stackoverflow.com/questions/5459347/c-graph-vertex-coloring-library-or-source-code/68259366#68259366)<!-- STACKOVERFLOW-LIST:END -->
+ - Mon Aug 30 2021 7:02 AM - [Answer by Zig Razor for Data structures for graphs](https://stackoverflow.com/questions/68873161/data-structures-for-graphs/68980091#68980091)<!-- STACKOVERFLOW-LIST:END -->
 
 ### :zap: Recent Activity
 
