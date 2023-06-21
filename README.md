@@ -46,6 +46,8 @@
 <h3 align="left">StackOverflow Post</h3>
 
 <!-- STACKOVERFLOW-LIST:START -->
+ - Wed Jun 21 2023 8:28 AM - [Answer by Zig Razor for Out Of Memory happened when there is lots of free memory](https://stackoverflow.com/questions/76521274/out-of-memory-happened-when-there-is-lots-of-free-memory/76521376#76521376)
+ - Wed Jun 21 2023 8:13 AM - [Answer by Zig Razor for How to reverse last commit in git, when should use git checkout -f, or git restore &lt;filename&gt;](https://stackoverflow.com/questions/76520870/how-to-reverse-last-commit-in-git-when-should-use-git-checkout-f-or-git-resto/76521266#76521266)
  - Wed Jun 21 2023 7:47 AM - [Answer by Zig Razor for An error occurred while constructing a 3D vector class](https://stackoverflow.com/questions/76521027/an-error-occurred-while-constructing-a-3d-vector-class/76521081#76521081)
  - Wed Jun 21 2023 7:43 AM - [Answer by Zig Razor for Github desktop showing a number at branch like #46](https://stackoverflow.com/questions/76520995/github-desktop-showing-a-number-at-branch-like-46/76521043#76521043)
  - Thu Dec 15 2022 9:52 AM - [Answer by Zig Razor for Write a Bash Script to edit a csv file](https://stackoverflow.com/questions/74809612/write-a-bash-script-to-edit-a-csv-file/74809648#74809648)
@@ -53,9 +55,7 @@
  - Tue Dec 06 2022 7:04 PM - [Answer by Zig Razor for How to get correct type when duplicate class names in Typescript?](https://stackoverflow.com/questions/74707618/how-to-get-correct-type-when-duplicate-class-names-in-typescript/74707880#74707880)
  - Tue Dec 06 2022 6:03 PM - [Answer by Zig Razor for First value in array is not getting updated](https://stackoverflow.com/questions/74706932/first-value-in-array-is-not-getting-updated/74707182#74707182)
  - Tue Dec 06 2022 5:42 PM - [Answer by Zig Razor for How to set minimum and maximum length of a string argument?](https://stackoverflow.com/questions/74706594/how-to-set-minimum-and-maximum-length-of-a-string-argument/74706933#74706933)
- - Tue Dec 06 2022 4:54 PM - [Answer by Zig Razor for Can&#39;t read a structure from text file - C](https://stackoverflow.com/questions/74705742/cant-read-a-structure-from-text-file-c/74706303#74706303)
- - Fri Jul 15 2022 3:34 PM - [Answer by Zig Razor for C++ program gives up when reading large binary file](https://stackoverflow.com/questions/72996011/c-program-gives-up-when-reading-large-binary-file/72996388#72996388)
- - Mon Aug 30 2021 7:02 AM - [Answer by Zig Razor for Data structures for graphs](https://stackoverflow.com/questions/68873161/data-structures-for-graphs/68980091#68980091)<!-- STACKOVERFLOW-LIST:END -->
+ - Tue Dec 06 2022 4:54 PM - [Answer by Zig Razor for Can&#39;t read a structure from text file - C](https://stackoverflow.com/questions/74705742/cant-read-a-structure-from-text-file-c/74706303#74706303)<!-- STACKOVERFLOW-LIST:END -->
 
 ### :zap: Recent Activity
 
