@@ -46,6 +46,7 @@
 <h3 align="left">StackOverflow Post</h3>
 
 <!-- STACKOVERFLOW-LIST:START -->
+ - Mon Jun 26 2023 9:02 AM - [Answer by Zig Razor for get Linux Monitor resolution with C](https://stackoverflow.com/questions/76554710/get-linux-monitor-resolution-with-c/76555164#76555164)
  - Wed Jun 21 2023 8:28 AM - [Answer by Zig Razor for Out Of Memory happened when there is lots of free memory](https://stackoverflow.com/questions/76521274/out-of-memory-happened-when-there-is-lots-of-free-memory/76521376#76521376)
  - Wed Jun 21 2023 8:13 AM - [Answer by Zig Razor for How to reverse last commit in git, when should use git checkout -f, or git restore &lt;filename&gt;](https://stackoverflow.com/questions/76520870/how-to-reverse-last-commit-in-git-when-should-use-git-checkout-f-or-git-resto/76521266#76521266)
  - Wed Jun 21 2023 7:47 AM - [Answer by Zig Razor for An error occurred while constructing a 3D vector class](https://stackoverflow.com/questions/76521027/an-error-occurred-while-constructing-a-3d-vector-class/76521081#76521081)
@@ -54,8 +55,7 @@
  - Wed Dec 07 2022 9:34 AM - [Answer by Zig Razor for In yaml-cpp, can the node tags be used to store custom data?](https://stackoverflow.com/questions/74714155/in-yaml-cpp-can-the-node-tags-be-used-to-store-custom-data/74714456#74714456)
  - Tue Dec 06 2022 7:04 PM - [Answer by Zig Razor for How to get correct type when duplicate class names in Typescript?](https://stackoverflow.com/questions/74707618/how-to-get-correct-type-when-duplicate-class-names-in-typescript/74707880#74707880)
  - Tue Dec 06 2022 6:03 PM - [Answer by Zig Razor for First value in array is not getting updated](https://stackoverflow.com/questions/74706932/first-value-in-array-is-not-getting-updated/74707182#74707182)
- - Tue Dec 06 2022 5:42 PM - [Answer by Zig Razor for How to set minimum and maximum length of a string argument?](https://stackoverflow.com/questions/74706594/how-to-set-minimum-and-maximum-length-of-a-string-argument/74706933#74706933)
- - Tue Dec 06 2022 4:54 PM - [Answer by Zig Razor for Can&#39;t read a structure from text file - C](https://stackoverflow.com/questions/74705742/cant-read-a-structure-from-text-file-c/74706303#74706303)<!-- STACKOVERFLOW-LIST:END -->
+ - Tue Dec 06 2022 5:42 PM - [Answer by Zig Razor for How to set minimum and maximum length of a string argument?](https://stackoverflow.com/questions/74706594/how-to-set-minimum-and-maximum-length-of-a-string-argument/74706933#74706933)<!-- STACKOVERFLOW-LIST:END -->
 
 ### :zap: Recent Activity
 
