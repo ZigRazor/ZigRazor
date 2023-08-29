@@ -32,7 +32,7 @@
 <h3 align="left">DEV.to Blog Post</h3>
 
 <!-- DEV-TO-LIST:START -->
- - Tue Mar 28 2023 9:54 AM - [Revolutionizing Data Processing with CXXGraph: A Comprehensive Guide to Graph Data Structures in C++](https://dev.to/zigrazor/revolutionizing-data-processing-with-cxxgraph-a-comprehensive-guide-to-graph-data-structures-in-c-3od5)
+ - Tue Mar 28 2023 9:54 AM - [Revolutionizing Data Processing with CXXGraph: A Comprehensive Guide to Graph Data Structures in C++](https://dev.to/cxxgraph/revolutionizing-data-processing-with-cxxgraph-a-comprehensive-guide-to-graph-data-structures-in-c-3od5)
  - Fri Mar 03 2023 7:16 AM - [CXXGraph Library : Header-Only C++ Library for Graph Representation and Algorithms](https://dev.to/zigrazor/cxxgraph-library-header-only-c-library-for-graph-representation-and-algorithms-1o1l)
  - Fri Oct 14 2022 6:23 AM - [2 Weeks of Hacktoberfest, How is it going??](https://dev.to/zigrazor/2-weeks-of-hacktoberfest-how-is-it-going-4ilk)
  - Mon Oct 03 2022 9:40 AM - [Hacktoberfest is started, give your contribution!](https://dev.to/zigrazor/hacktoberfest-is-started-give-your-contribution-7en)
