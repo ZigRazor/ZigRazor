@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#339](https://github.com/ZigRazor/CXXGraph/issues/339#issuecomment-1704720670) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-2. 🗣 Commented on [#338](https://github.com/ZigRazor/CXXGraph/issues/338#issuecomment-1704689673) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-3. 💪 Opened PR [#337](https://github.com/ZigRazor/CXXGraph/pull/337) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-4. ❗ Opened issue [#85](https://github.com/bobluppes/graaf/issues/85) in [bobluppes/graaf](https://github.com/bobluppes/graaf)
-5. 🔒 Closed issue [#215](https://github.com/ZigRazor/CXXGraph/issues/215) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+1. 🗣 Commented on [#340](https://github.com/ZigRazor/CXXGraph/issues/340#issuecomment-1705329488) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+2. 🗣 Commented on [#339](https://github.com/ZigRazor/CXXGraph/issues/339#issuecomment-1704720670) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+3. 🗣 Commented on [#338](https://github.com/ZigRazor/CXXGraph/issues/338#issuecomment-1704689673) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+4. 💪 Opened PR [#337](https://github.com/ZigRazor/CXXGraph/pull/337) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+5. ❗ Opened issue [#85](https://github.com/bobluppes/graaf/issues/85) in [bobluppes/graaf](https://github.com/bobluppes/graaf)
 <!--END_SECTION:activity-->
 
 
