@@ -32,6 +32,7 @@
 <h3 align="left">DEV.to Blog Post</h3>
 
 <!-- DEV-TO-LIST:START -->
+ - Mon Oct 09 2023 8:26 AM - [Hacktoberfest is ON CXXGraph](https://dev.to/cxxgraph/hacktoberfest-is-on-cxxgraph-43bd)
  - Tue Mar 28 2023 9:54 AM - [Revolutionizing Data Processing with CXXGraph: A Comprehensive Guide to Graph Data Structures in C++](https://dev.to/cxxgraph/revolutionizing-data-processing-with-cxxgraph-a-comprehensive-guide-to-graph-data-structures-in-c-3od5)
  - Fri Mar 03 2023 7:16 AM - [CXXGraph Library : Header-Only C++ Library for Graph Representation and Algorithms](https://dev.to/zigrazor/cxxgraph-library-header-only-c-library-for-graph-representation-and-algorithms-1o1l)
  - Fri Oct 14 2022 6:23 AM - [2 Weeks of Hacktoberfest, How is it going??](https://dev.to/zigrazor/2-weeks-of-hacktoberfest-how-is-it-going-4ilk)
@@ -40,8 +41,7 @@
  - Tue May 24 2022 7:48 AM - [MicroService Framework in C++](https://dev.to/zigrazor/microservice-framework-in-c-364p)
  - Fri Feb 25 2022 10:20 AM - [MTL First Beta Release](https://dev.to/zigrazor/mtl-first-beta-release-246f)
  - Fri Feb 18 2022 12:52 PM - [Node.js New Project Ideas Discussion](https://dev.to/zigrazor/nodejs-new-project-ideas-discussion-3852)
- - Thu Feb 03 2022 11:21 AM - [Python New Project Ideas Discussion](https://dev.to/zigrazor/python-new-project-ideas-discussion-84m)
- - Thu Feb 03 2022 11:14 AM - [C++ New Project Ideas Discussion](https://dev.to/zigrazor/c-new-project-ideas-discussion-3okb)<!-- DEV-TO-LIST:END -->
+ - Thu Feb 03 2022 11:21 AM - [Python New Project Ideas Discussion](https://dev.to/zigrazor/python-new-project-ideas-discussion-84m)<!-- DEV-TO-LIST:END -->
 
 <h3 align="left">StackOverflow Post</h3>
 
