@@ -46,6 +46,7 @@
 <h3 align="left">StackOverflow Post</h3>
 
 <!-- STACKOVERFLOW-LIST:START -->
+ - Mon Nov 20 2023 9:36 AM - [Answer by Zig Razor for Confusion about -c option in bash](https://stackoverflow.com/questions/77514670/confusion-about-c-option-in-bash/77514784#77514784)
  - Tue Jun 27 2023 9:32 AM - [Answer by Zig Razor for Can I repeat a std::string_view without copying when printing indentation?](https://stackoverflow.com/questions/76563217/can-i-repeat-a-stdstring-view-without-copying-when-printing-indentation/76563495#76563495)
  - Tue Jun 27 2023 9:21 AM - [Answer by Zig Razor for Where and why to use preprocessor macros and directives in C++?](https://stackoverflow.com/questions/76563344/where-and-why-to-use-preprocessor-macros-and-directives-in-c/76563415#76563415)
  - Mon Jun 26 2023 9:02 AM - [Answer by Zig Razor for get Linux Monitor resolution with C](https://stackoverflow.com/questions/76554710/get-linux-monitor-resolution-with-c/76555164#76555164)
@@ -54,8 +55,7 @@
  - Wed Jun 21 2023 7:47 AM - [Answer by Zig Razor for An error occurred while constructing a 3D vector class](https://stackoverflow.com/questions/76521027/an-error-occurred-while-constructing-a-3d-vector-class/76521081#76521081)
  - Wed Jun 21 2023 7:43 AM - [Answer by Zig Razor for Github desktop showing a number at branch like #46](https://stackoverflow.com/questions/76520995/github-desktop-showing-a-number-at-branch-like-46/76521043#76521043)
  - Thu Dec 15 2022 9:52 AM - [Answer by Zig Razor for Write a Bash Script to edit a csv file](https://stackoverflow.com/questions/74809612/write-a-bash-script-to-edit-a-csv-file/74809648#74809648)
- - Wed Dec 07 2022 9:34 AM - [Answer by Zig Razor for In yaml-cpp, can the node tags be used to store custom data?](https://stackoverflow.com/questions/74714155/in-yaml-cpp-can-the-node-tags-be-used-to-store-custom-data/74714456#74714456)
- - Tue Dec 06 2022 7:04 PM - [Answer by Zig Razor for How to get correct type when duplicate class names in Typescript?](https://stackoverflow.com/questions/74707618/how-to-get-correct-type-when-duplicate-class-names-in-typescript/74707880#74707880)<!-- STACKOVERFLOW-LIST:END -->
+ - Wed Dec 07 2022 9:34 AM - [Answer by Zig Razor for In yaml-cpp, can the node tags be used to store custom data?](https://stackoverflow.com/questions/74714155/in-yaml-cpp-can-the-node-tags-be-used-to-store-custom-data/74714456#74714456)<!-- STACKOVERFLOW-LIST:END -->
 
 ### :zap: Recent Activity
 
