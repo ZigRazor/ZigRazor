@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.1](https://github.com/ZigRazor/Labrador/releases/tag/v0.0.1) in [ZigRazor/Labrador](https://github.com/ZigRazor/Labrador)
-2. 🎉 Merged PR [#2](https://github.com/ZigRazor/Labrador/pull/2) in [ZigRazor/Labrador](https://github.com/ZigRazor/Labrador)
-3. 🎉 Merged PR [#1](https://github.com/ZigRazor/JackRussell/pull/1) in [ZigRazor/JackRussell](https://github.com/ZigRazor/JackRussell)
-4. 🎉 Merged PR [#1](https://github.com/ZigRazor/Labrador/pull/1) in [ZigRazor/Labrador](https://github.com/ZigRazor/Labrador)
-5. 🗣 Commented on [#439](https://github.com/ZigRazor/CXXGraph/issues/439#issuecomment-2111806907) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+1. 🎉 Merged PR [#1](https://github.com/ZigRazor/Pomeranian/pull/1) in [ZigRazor/Pomeranian](https://github.com/ZigRazor/Pomeranian)
+2. 🚀 Published release [v0.0.1](https://github.com/ZigRazor/Labrador/releases/tag/v0.0.1) in [ZigRazor/Labrador](https://github.com/ZigRazor/Labrador)
+3. 🎉 Merged PR [#2](https://github.com/ZigRazor/Labrador/pull/2) in [ZigRazor/Labrador](https://github.com/ZigRazor/Labrador)
+4. 🎉 Merged PR [#1](https://github.com/ZigRazor/JackRussell/pull/1) in [ZigRazor/JackRussell](https://github.com/ZigRazor/JackRussell)
+5. 🎉 Merged PR [#1](https://github.com/ZigRazor/Labrador/pull/1) in [ZigRazor/Labrador](https://github.com/ZigRazor/Labrador)
 <!--END_SECTION:activity-->
 
 
