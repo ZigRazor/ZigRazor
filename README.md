@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ZigRazor/Chihuahua/pull/2) in [ZigRazor/Chihuahua](https://github.com/ZigRazor/Chihuahua)
-2. 🎉 Merged PR [#1](https://github.com/ZigRazor/Chihuahua/pull/1) in [ZigRazor/Chihuahua](https://github.com/ZigRazor/Chihuahua)
-3. 🗣 Commented on [#315](https://github.com/open-source-ideas/ideas/issues/315#issuecomment-2126412684) in [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas)
-4. 🎉 Merged PR [#1](https://github.com/ZigRazor/Pomeranian/pull/1) in [ZigRazor/Pomeranian](https://github.com/ZigRazor/Pomeranian)
-5. 🚀 Published release [v0.0.1](https://github.com/ZigRazor/Labrador/releases/tag/v0.0.1) in [ZigRazor/Labrador](https://github.com/ZigRazor/Labrador)
+1. 🎉 Merged PR [#443](https://github.com/ZigRazor/CXXGraph/pull/443) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+2. 🎉 Merged PR [#442](https://github.com/ZigRazor/CXXGraph/pull/442) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+3. ❗ Opened issue [#444](https://github.com/ZigRazor/CXXGraph/issues/444) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+4. 🎉 Merged PR [#2](https://github.com/ZigRazor/Chihuahua/pull/2) in [ZigRazor/Chihuahua](https://github.com/ZigRazor/Chihuahua)
+5. 🎉 Merged PR [#1](https://github.com/ZigRazor/Chihuahua/pull/1) in [ZigRazor/Chihuahua](https://github.com/ZigRazor/Chihuahua)
 <!--END_SECTION:activity-->
 
 
