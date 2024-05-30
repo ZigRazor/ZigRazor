@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#444](https://github.com/ZigRazor/CXXGraph/issues/444#issuecomment-2138908069) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-2. 🚀 Published release [v0.0.1](https://github.com/ZigRazor/Chihuahua/releases/tag/v0.0.1) in [ZigRazor/Chihuahua](https://github.com/ZigRazor/Chihuahua)
-3. 🚀 Published release [v0.0.1](https://github.com/ZigRazor/JackRussell/releases/tag/v0.0.1) in [ZigRazor/JackRussell](https://github.com/ZigRazor/JackRussell)
-4. 🎉 Merged PR [#2](https://github.com/ZigRazor/Pomeranian/pull/2) in [ZigRazor/Pomeranian](https://github.com/ZigRazor/Pomeranian)
-5. 🎉 Merged PR [#4](https://github.com/ZigRazor/Labrador/pull/4) in [ZigRazor/Labrador](https://github.com/ZigRazor/Labrador)
+1. 🗣 Commented on [#444](https://github.com/ZigRazor/CXXGraph/issues/444#issuecomment-2140266592) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+2. 🗣 Commented on [#444](https://github.com/ZigRazor/CXXGraph/issues/444#issuecomment-2138908069) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+3. 🚀 Published release [v0.0.1](https://github.com/ZigRazor/Chihuahua/releases/tag/v0.0.1) in [ZigRazor/Chihuahua](https://github.com/ZigRazor/Chihuahua)
+4. 🚀 Published release [v0.0.1](https://github.com/ZigRazor/JackRussell/releases/tag/v0.0.1) in [ZigRazor/JackRussell](https://github.com/ZigRazor/JackRussell)
+5. 🎉 Merged PR [#2](https://github.com/ZigRazor/Pomeranian/pull/2) in [ZigRazor/Pomeranian](https://github.com/ZigRazor/Pomeranian)
 <!--END_SECTION:activity-->
 
 
