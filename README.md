@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#311](https://github.com/ZigRazor/CXXGraph/issues/311) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-2. 🎉 Merged PR [#460](https://github.com/ZigRazor/CXXGraph/pull/460) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-3. 🎉 Merged PR [#459](https://github.com/ZigRazor/CXXGraph/pull/459) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-4. 🎉 Merged PR [#28](https://github.com/ZigRazor/JTaskFlow/pull/28) in [ZigRazor/JTaskFlow](https://github.com/ZigRazor/JTaskFlow)
-5. 🗣 Commented on [#315](https://github.com/open-source-ideas/ideas/issues/315#issuecomment-2185763548) in [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas)
+1. ❌ Closed PR [#30](https://github.com/ZigRazor/JTaskFlow/pull/30) in [ZigRazor/JTaskFlow](https://github.com/ZigRazor/JTaskFlow)
+2. 🎉 Merged PR [#29](https://github.com/ZigRazor/JTaskFlow/pull/29) in [ZigRazor/JTaskFlow](https://github.com/ZigRazor/JTaskFlow)
+3. 🔒 Closed issue [#311](https://github.com/ZigRazor/CXXGraph/issues/311) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+4. 🎉 Merged PR [#460](https://github.com/ZigRazor/CXXGraph/pull/460) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+5. 🎉 Merged PR [#459](https://github.com/ZigRazor/CXXGraph/pull/459) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
 <!--END_SECTION:activity-->
 
 
