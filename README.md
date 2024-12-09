@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/ZigRazor/Chihuahua/pull/8) in [ZigRazor/Chihuahua](https://github.com/ZigRazor/Chihuahua)
-2. 🎉 Merged PR [#9](https://github.com/ZigRazor/JackRussell/pull/9) in [ZigRazor/JackRussell](https://github.com/ZigRazor/JackRussell)
-3. 🎉 Merged PR [#481](https://github.com/ZigRazor/CXXGraph/pull/481) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-4. 🗣 Commented on [#6](https://github.com/ZigRazor/MTL/issues/6#issuecomment-2527227661) in [ZigRazor/MTL](https://github.com/ZigRazor/MTL)
-5. 🗣 Commented on [#315](https://github.com/open-source-ideas/ideas/issues/315#issuecomment-2514057305) in [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas)
+1. 🎉 Merged PR [#10](https://github.com/ZigRazor/Labrador/pull/10) in [ZigRazor/Labrador](https://github.com/ZigRazor/Labrador)
+2. 🎉 Merged PR [#8](https://github.com/ZigRazor/Chihuahua/pull/8) in [ZigRazor/Chihuahua](https://github.com/ZigRazor/Chihuahua)
+3. 🎉 Merged PR [#9](https://github.com/ZigRazor/JackRussell/pull/9) in [ZigRazor/JackRussell](https://github.com/ZigRazor/JackRussell)
+4. 🎉 Merged PR [#481](https://github.com/ZigRazor/CXXGraph/pull/481) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+5. 🗣 Commented on [#6](https://github.com/ZigRazor/MTL/issues/6#issuecomment-2527227661) in [ZigRazor/MTL](https://github.com/ZigRazor/MTL)
 <!--END_SECTION:activity-->
 
 
