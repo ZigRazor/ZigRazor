@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/ZigRazor/JTaskFlow/pull/42) in [ZigRazor/JTaskFlow](https://github.com/ZigRazor/JTaskFlow)
-2. 🎉 Merged PR [#8](https://github.com/ZigRazor/Pomeranian/pull/8) in [ZigRazor/Pomeranian](https://github.com/ZigRazor/Pomeranian)
-3. 🎉 Merged PR [#7](https://github.com/ZigRazor/Pomeranian/pull/7) in [ZigRazor/Pomeranian](https://github.com/ZigRazor/Pomeranian)
-4. 🎉 Merged PR [#10](https://github.com/ZigRazor/Labrador/pull/10) in [ZigRazor/Labrador](https://github.com/ZigRazor/Labrador)
-5. 🎉 Merged PR [#8](https://github.com/ZigRazor/Chihuahua/pull/8) in [ZigRazor/Chihuahua](https://github.com/ZigRazor/Chihuahua)
+1. 🎉 Merged PR [#43](https://github.com/ZigRazor/JTaskFlow/pull/43) in [ZigRazor/JTaskFlow](https://github.com/ZigRazor/JTaskFlow)
+2. 🎉 Merged PR [#42](https://github.com/ZigRazor/JTaskFlow/pull/42) in [ZigRazor/JTaskFlow](https://github.com/ZigRazor/JTaskFlow)
+3. 🎉 Merged PR [#8](https://github.com/ZigRazor/Pomeranian/pull/8) in [ZigRazor/Pomeranian](https://github.com/ZigRazor/Pomeranian)
+4. 🎉 Merged PR [#7](https://github.com/ZigRazor/Pomeranian/pull/7) in [ZigRazor/Pomeranian](https://github.com/ZigRazor/Pomeranian)
+5. 🎉 Merged PR [#10](https://github.com/ZigRazor/Labrador/pull/10) in [ZigRazor/Labrador](https://github.com/ZigRazor/Labrador)
 <!--END_SECTION:activity-->
 
 
