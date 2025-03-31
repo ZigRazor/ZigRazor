@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/ZigRazor/JTaskFlow/pull/50) in [ZigRazor/JTaskFlow](https://github.com/ZigRazor/JTaskFlow)
-2. 🎉 Merged PR [#14](https://github.com/ZigRazor/Labrador/pull/14) in [ZigRazor/Labrador](https://github.com/ZigRazor/Labrador)
-3. 🎉 Merged PR [#493](https://github.com/ZigRazor/CXXGraph/pull/493) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-4. 🎉 Merged PR [#12](https://github.com/ZigRazor/Chihuahua/pull/12) in [ZigRazor/Chihuahua](https://github.com/ZigRazor/Chihuahua)
-5. 🎉 Merged PR [#13](https://github.com/ZigRazor/JackRussell/pull/13) in [ZigRazor/JackRussell](https://github.com/ZigRazor/JackRussell)
+1. ❗ Opened issue [#496](https://github.com/ZigRazor/CXXGraph/issues/496) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+2. 🎉 Merged PR [#495](https://github.com/ZigRazor/CXXGraph/pull/495) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+3. 🎉 Merged PR [#50](https://github.com/ZigRazor/JTaskFlow/pull/50) in [ZigRazor/JTaskFlow](https://github.com/ZigRazor/JTaskFlow)
+4. 🎉 Merged PR [#14](https://github.com/ZigRazor/Labrador/pull/14) in [ZigRazor/Labrador](https://github.com/ZigRazor/Labrador)
+5. 🎉 Merged PR [#493](https://github.com/ZigRazor/CXXGraph/pull/493) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
 <!--END_SECTION:activity-->
 
 
