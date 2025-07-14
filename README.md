@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/ZigRazor/CXXStateTree/issues/8) in [ZigRazor/CXXStateTree](https://github.com/ZigRazor/CXXStateTree)
-2. 🎉 Merged PR [#9](https://github.com/ZigRazor/CXXStateTree/pull/9) in [ZigRazor/CXXStateTree](https://github.com/ZigRazor/CXXStateTree)
-3. ❗ Opened issue [#7](https://github.com/ZigRazor/CXXStateTree/issues/7) in [ZigRazor/CXXStateTree](https://github.com/ZigRazor/CXXStateTree)
-4. ❗ Opened issue [#6](https://github.com/ZigRazor/CXXStateTree/issues/6) in [ZigRazor/CXXStateTree](https://github.com/ZigRazor/CXXStateTree)
-5. ❗ Opened issue [#5](https://github.com/ZigRazor/CXXStateTree/issues/5) in [ZigRazor/CXXStateTree](https://github.com/ZigRazor/CXXStateTree)
+1. ❗ Opened issue [#10](https://github.com/ZigRazor/CXXStateTree/issues/10) in [ZigRazor/CXXStateTree](https://github.com/ZigRazor/CXXStateTree)
+2. 🔒 Closed issue [#8](https://github.com/ZigRazor/CXXStateTree/issues/8) in [ZigRazor/CXXStateTree](https://github.com/ZigRazor/CXXStateTree)
+3. 🎉 Merged PR [#9](https://github.com/ZigRazor/CXXStateTree/pull/9) in [ZigRazor/CXXStateTree](https://github.com/ZigRazor/CXXStateTree)
+4. ❗ Opened issue [#7](https://github.com/ZigRazor/CXXStateTree/issues/7) in [ZigRazor/CXXStateTree](https://github.com/ZigRazor/CXXStateTree)
+5. ❗ Opened issue [#6](https://github.com/ZigRazor/CXXStateTree/issues/6) in [ZigRazor/CXXStateTree](https://github.com/ZigRazor/CXXStateTree)
 <!--END_SECTION:activity-->
 
 
