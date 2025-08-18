@@ -11,7 +11,7 @@ jobs:
       - name: Get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/zigrazor"
