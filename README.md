@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1088](https://github.com/madler/zlib/issues/1088) in [madler/zlib](https://github.com/madler/zlib)
-2. 🗣 Commented on [#315](https://github.com/open-source-ideas/ideas/issues/315#issuecomment-3370251184) in [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas)
-3. 🎉 Merged PR [#544](https://github.com/ZigRazor/CXXGraph/pull/544) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-4. 🗣 Commented on [#543](https://github.com/ZigRazor/CXXGraph/pull/543#issuecomment-3370244130) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-5. 🔒 Closed issue [#298](https://github.com/ZigRazor/CXXGraph/issues/298) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+1. 🎉 Merged PR [#547](https://github.com/ZigRazor/CXXGraph/pull/547) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+2. 🎉 Merged PR [#546](https://github.com/ZigRazor/CXXGraph/pull/546) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+3. ❗ Opened issue [#1088](https://github.com/madler/zlib/issues/1088) in [madler/zlib](https://github.com/madler/zlib)
+4. 🗣 Commented on [#315](https://github.com/open-source-ideas/ideas/issues/315#issuecomment-3370251184) in [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas)
+5. 🎉 Merged PR [#544](https://github.com/ZigRazor/CXXGraph/pull/544) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
 <!--END_SECTION:activity-->
 
 
