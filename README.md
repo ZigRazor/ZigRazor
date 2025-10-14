@@ -60,11 +60,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#464](https://github.com/ZigRazor/CXXGraph/issues/464) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-2. 🗣 Commented on [#464](https://github.com/ZigRazor/CXXGraph/issues/464#issuecomment-3396232279) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-3.  Assigned issue [#328](https://github.com/ZigRazor/CXXGraph/issues/328) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-4. 🗣 Commented on [#328](https://github.com/ZigRazor/CXXGraph/issues/328#issuecomment-3396230780) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
-5. ❗ Opened issue [#1088](https://github.com/madler/zlib/issues/1088) in [madler/zlib](https://github.com/madler/zlib)
+1.  Assigned issue [#5](https://github.com/ZigRazor/CXXGraph/issues/5) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+2. 🗣 Commented on [#5](https://github.com/ZigRazor/CXXGraph/issues/5#issuecomment-3400088448) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+3.  Unassigned issue [#19](https://github.com/ZigRazor/CXXGraph/issues/19) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+4.  Assigned issue [#19](https://github.com/ZigRazor/CXXGraph/issues/19) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+5. 🗣 Commented on [#19](https://github.com/ZigRazor/CXXGraph/issues/19#issuecomment-3400087699) in [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
 <!--END_SECTION:activity-->
 
 
