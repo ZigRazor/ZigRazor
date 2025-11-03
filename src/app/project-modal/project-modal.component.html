@@ -1,4 +1,4 @@
-<div class="backdrop" *ngIf="project" [@backdrop] (@backdrop.done)="onClose()" (click)="onClose()">
+<div class="backdrop" *ngIf="project" [@backdrop] (click)="onClose()">
   <div class="panel" @panel (click)="$event.stopPropagation()">
     <h3>{{project.name}}</h3>
     <p class="muted">{{project.desc}}</p>

@@ -1,14 +1,17 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { ProjectModalComponent } from '../project-modal/project-modal.component';
+import { CommonModule } from '@angular/common';
+import { Title, Meta } from '@angular/platform-browser';
 
 @Component({
   selector: 'app-projects',
   standalone: true,
-  imports: [ProjectModalComponent],
+  imports: [CommonModule, ProjectModalComponent],
   templateUrl: './projects.component.html',
   styleUrls: ['./projects.component.scss']
 })
-export class ProjectsComponent {
+export class ProjectsComponent implements OnInit {
+
   projects = [
     {
       name: 'CXXGraph',
@@ -25,6 +28,18 @@ export class ProjectsComponent {
   ];
 
   selected: any = null;
+
+  constructor(private title: Title, private meta: Meta) { }
+
+  ngOnInit(): void {
+    this.title.setTitle('Projects — ZigRazor Portfolio');
+    this.meta.updateTag({
+      name: 'description',
+      content: 'Project Page for ZigRazor’s professional software engineering portfolio.'
+    });
+  }
+
+
 
   open(p: any) {
     this.selected = p;
