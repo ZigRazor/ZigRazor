@@ -32,7 +32,7 @@ jobs:
 
       - name: Build Angular app
         run: |
-          npm run build -- --base-href="/"
+          npm run build -- --base-href="/ZigRazor/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
