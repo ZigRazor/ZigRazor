@@ -1,0 +1,9 @@
+<div class="backdrop" *ngIf="project" [@backdrop] (@backdrop.done)="onClose()" (click)="onClose()">
+  <div class="panel" @panel (click)="$event.stopPropagation()">
+    <h3>{{project.name}}</h3>
+    <p class="muted">{{project.desc}}</p>
+    <p *ngIf="project.longDesc">{{project.longDesc}}</p>
+    <p><a [href]="project.url" target="_blank" rel="noopener">View on GitHub</a></p>
+    <button (click)="onClose()" class="btn">Close</button>
+  </div>
+</div>

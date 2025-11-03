@@ -1,0 +1,25 @@
+.backdrop {
+  position: fixed;
+  inset: 0;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background: rgba(2,6,23,0.6);
+  z-index: 1000;
+}
+.panel {
+  width: min(720px, 92%);
+  background: var(--card);
+  padding: 22px;
+  border-radius: 12px;
+  box-shadow: 0 12px 36px rgba(2,6,23,0.7);
+}
+.btn {
+  margin-top:12px;
+  padding:8px 12px;
+  border-radius:8px;
+  background: none;
+  border:1px solid rgba(255,255,255,0.06);
+  color: inherit;
+}
+.muted { color: var(--muted); }

@@ -1,0 +1,30 @@
+{
+  "name": "zigrazor-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve --open",
+    "build": "ng build --configuration production",
+    "build:prod": "ng build --configuration production --base-href /",
+    "test": "ng test",
+    "lint": "ng lint"
+  },
+  "dependencies": {
+    "@angular-devkit/build-angular": "^20.3.8",
+    "@angular/animations": "",
+    "@angular/common": "",
+    "@angular/compiler": "",
+    "@angular/core": "",
+    "@angular/forms": "",
+    "@angular/platform-browser": "",
+    "@angular/platform-browser-dynamic": "",
+    "@angular/router": "",
+    "zone.js": "^0.15.1"
+  },
+  "devDependencies": {
+    "@angular/cli": "^20.3.8",
+    "@angular/compiler-cli": "",
+    "typescript": ""
+  }
+}

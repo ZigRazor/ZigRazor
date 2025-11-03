@@ -1,0 +1,69 @@
+/* Global styles - modern professional look */
+:root {
+  --bg: #0f1724;
+  --card: #111827;
+  --muted: #9ca3af;
+  --accent: #4f46e5;
+  --text: #e5e7eb;
+}
+
+[data-theme="light"] {
+  --bg: #f3f4f6;
+  --card: #ffffff;
+  --muted: #6b7280;
+  --accent: #4f46e5;
+  --text: #0b1220;
+}
+
+* { box-sizing: border-box; }
+html,body,#root { height:100%; }
+body {
+  margin:0;
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: linear-gradient(180deg, var(--bg), #071126);
+  color: var(--text);
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  transition: background 220ms ease-in-out, color 220ms ease-in-out;
+}
+
+.container {
+  max-width: 960px;
+  margin: 40px auto;
+  padding: 24px;
+}
+
+/* Simple header */
+header.site-header {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:16px;
+  padding: 12px 0;
+}
+.site-title { font-weight:700; letter-spacing: -0.5px; }
+.nav { display:flex; gap:12px; }
+a { color: inherit; text-decoration:none; }
+.card {
+  background: rgba(255,255,255,0.03);
+  padding: 18px;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(2,6,23,0.6);
+  margin-bottom: 16px;
+}
+
+/* Responsive */
+@media (max-width:700px) {
+  .container { padding: 12px; margin: 20px; }
+  header.site-header { flex-direction:column; align-items:flex-start; gap:8px; }
+}
+
+/* small utilities */
+.muted { color: var(--muted); }
+a { color: var(--accent); }
+
+/* Ensure cards adapt to theme */
+[data-theme="light"] .card {
+  background: rgba(2,6,23,0.04);
+  box-shadow: none;
+}

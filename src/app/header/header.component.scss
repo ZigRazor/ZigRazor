@@ -1,0 +1,10 @@
+.theme-btn {
+  background: none;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  padding:6px;
+  border-radius:8px;
+}
+.nav { display:flex; gap:12px; align-items:center; }
+a[routerLink] { cursor:pointer; }

@@ -1,0 +1,16 @@
+<h2>Selected Projects</h2>
+<ul>
+  <li *ngFor="let p of projects" style="margin-bottom:12px;">
+    <div style="display:flex; justify-content:space-between; align-items:center;">
+      <div>
+        <strong><a [href]="p.url" target="_blank" rel="noopener">{{p.name}}</a></strong>
+        <div style="color:var(--muted)">{{p.desc}}</div>
+      </div>
+      <div>
+        <button (click)="open(p)" class="btn">Details</button>
+      </div>
+    </div>
+  </li>
+</ul>
+
+<app-project-modal *ngIf="selected" [project]="selected" (close)="close()"></app-project-modal>
