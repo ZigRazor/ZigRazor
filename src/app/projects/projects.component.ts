@@ -24,6 +24,12 @@ export class ProjectsComponent implements OnInit {
       desc: 'Hierarchical state machine / state tree library for C++.',
       url: 'https://github.com/ZigRazor/CXXStateTree',
       longDesc: 'CXXStateTree focuses on nested states, transitions and optional coroutine-based async handling for complex state-driven systems.'
+    },
+    {
+      name: 'CXXMicroService',
+      desc: 'A C++ Library that give microservice framework ( Server / Client ) upon 0mq framework',
+      url: 'https://github.com/ZigRazor/CXXMicroService',
+      longDesc: 'CXXMicroService is a C++ library, that manages MicroServices, upon different Framework ( actually only 0mq is implemented). It provides a simple and easy to use API to create, manage and communicate between MicroServices.'
     }
   ];
 
