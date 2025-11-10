@@ -16,7 +16,7 @@ export class BlogPostComponent {
 
     constructor(private route: ActivatedRoute) {
         this.route.params.subscribe(params => {
-            this.postPath = `/assets/_posts/${params['slug']}.md`;
+            this.postPath = `./assets/_posts/${params['slug']}.md`;
         });
     }
 }

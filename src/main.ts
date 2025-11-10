@@ -6,12 +6,14 @@ import { routes } from './app/app.routes';
 import { provideHttpClient } from '@angular/common/http';
 import 'zone.js';
 import { provideMarkdown } from 'ngx-markdown';
+import { APP_BASE_HREF } from '@angular/common';
 
 bootstrapApplication(AppComponent, {
   providers: [
     provideRouter(routes),
     provideAnimations(),
     provideHttpClient(),
-    provideMarkdown()
+    provideMarkdown(),
+    { provide: APP_BASE_HREF, useValue: '/ZigRazor/' }
   ]
 }).catch(err => console.error(err));
