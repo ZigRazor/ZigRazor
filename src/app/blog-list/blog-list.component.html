@@ -1,0 +1,6 @@
+<h2>Latest Blog Posts</h2>
+<ul>
+    <li *ngFor="let post of posts">
+        <a [routerLink]="['/blog', post.slug]">{{ post.title }}</a>
+    </li>
+</ul>
