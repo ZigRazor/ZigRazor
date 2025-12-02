@@ -13,6 +13,8 @@
 -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zigrazor" alt="zigrazor" /></a> </p>
 
+<a href="https://trendshift.io/developers/6277" target="_blank"><img src="https://trendshift.io/api/badge/developers/6277" alt="ZigRazor | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 - 🔭 I’m currently working on [CXXGraph](https://github.com/ZigRazor/CXXGraph), [CXXStateTree](https://github.com/ZigRazor/CXXStateTree)
   
 - 🌱 I’m currently learning **Graph Partitioning for ML Application**
